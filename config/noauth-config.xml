@@ -1,0 +1,9 @@
+<configs>
+  <config name="default" protocol="vnc">
+    <param name="hostname" value="VNC_SERVER" />
+    <param name="port" value="VNC_PORT" />
+    <param name="password" value="VNC_PASSWORD" />
+    <param name="enable-audio" value="true" />
+    <param name="audio-servername" value="VNC_SERVER" />
+  </config>
+</configs>
