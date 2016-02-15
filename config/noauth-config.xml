@@ -5,5 +5,6 @@
     <param name="password" value="VNC_PASSWORD" />
     <param name="enable-audio" value="true" />
     <param name="audio-servername" value="VNC_SERVER" />
+    <param name="encodings" value="raw" />
   </config>
 </configs>

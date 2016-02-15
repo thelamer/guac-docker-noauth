@@ -8,7 +8,7 @@ GUACAMOLE_NOAUTH="$GUACAMOLE_HOME/noauth-config.xml"
 mkdir -p $GUACAMOLE_HOME
 mkdir -p $GUACAMOLE_EXT
 
-wget -O "$GUACAMOLE_EXT"/guacamole-auth-noauth-"$GUAC_VERSION".jar http://216.14.122.105/DropBox/guacamole-auth-noauth-"$GUAC_VERSION".jar
+wget -O "$GUACAMOLE_EXT"/guacamole-auth-noauth-"$GUAC_VERSION".jar http://ryankuba.com/DropBox/guacamole-auth-noauth-"$GUAC_VERSION".jar
 
 # Insert Config Files
 

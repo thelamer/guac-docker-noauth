@@ -7,7 +7,7 @@ MAINTAINER Ryan Kuba <ryankuba@gmail.com>
 
 # Version info
 ENV \
-    GUAC_VERSION=0.9.8
+    GUAC_VERSION=0.9.9
 
 # Add configuration scripts
 COPY bin /opt/guacamole/bin/
